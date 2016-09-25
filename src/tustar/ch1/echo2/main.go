@@ -14,5 +14,4 @@ func main() {
 		fmt.Print("=>")
 		fmt.Println(arg)
 	}
-	fmt.Println(s)
 }
